@@ -1,4 +1,7 @@
 # 📟💡 Calculator API  
+A simple, lightweight, and **easy-to-use** Calculator API built with **Node.js** and **Express.js**.  
+Perform basic arithmetic operations through clean RESTful endpoints — perfect for beginners, college projects, or API learning.  
+
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-%23FFDF00.svg?style=for-the-badge&logo=github&logoColor=black)  
@@ -105,15 +108,15 @@ Server runs at: http://localhost:3000
 
 ## 🏅 GitHub Stats & Badges  
 
-![Last commit](https://img.shields.io/github/last-commit/your-username/calculator-api?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/Rakesh12531/calculator-api?style=flat-square)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)
 ![Student Hackathon](https://img.shields.io/badge/Hackathon%20Ready-🏆-yellow?style=flat-square)
 
 <!-- GITHUB PROFILE STATS (Dynamic) -->
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=Rakesh12531&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh12531&layout=compact&theme=radical)
 
 ---
 
