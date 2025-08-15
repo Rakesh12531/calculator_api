@@ -108,7 +108,6 @@ Server runs at: http://localhost:3000
 
 ## 🏅 GitHub Stats & Badges  
 
-![Last commit](https://img.shields.io/github/last-commit/Rakesh12531/calculator-api?style=flat-square)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)
