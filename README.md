@@ -7,7 +7,7 @@ Perfect for learning API development or using as a base for more complex project
 
 ## 🎥 Demo
 
-YouTube Video: https://youtu.be/xSksIZ9IClQ
+YouTube Video: [![Watch the video](https://img.youtube.com/vi/xSksIZ9IClQ/maxresdefault.jpg)](https://youtu.be/xSksIZ9IClQ)https://youtu.be/xSksIZ9IClQ
 
 ---
 
@@ -44,10 +44,10 @@ calculator_api/
 ## ⚡ Installation & Usage
 
 1. **Clone the repository**
-   ```
-   git clone https://github.com/Rakesh12531/calculator_api.git
-   cd calculator_api
-   ```
+```
+git clone https://github.com/Rakesh12531/calculator_api.git
+cd calculator_api
+```
 2. **Install dependencies**
 
 ```
@@ -76,11 +76,11 @@ GET	/divide?num1=6&num2=3	Divide num1 by num2	/divide?num1=6&num2=3
 ```
 
 - Example Response:
-  ```
-  {
+```
+{
   "result": 8
-  }
-  ```
+}
+```
   ---
 
 ## 📧 Contact
